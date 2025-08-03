@@ -4,7 +4,7 @@ Dashboard from the Sample Sales Data in Kaggale, ETL process made in python (jup
 View the Sales Dashboard on Tableau Public:
 https://public.tableau.com/app/profile/inbar.birman/viz/SalesDashboard_17540726608940/Sheet1
 
-![Sales Dashboard](dashboards_screenshot.jpg)
+!(dashboards_screenshot.jpg)
 
 ---
 
