@@ -2,7 +2,7 @@
 Dashboard from the Sample Sales Data in Kaggale, ETL process made in python (jupyter notebook), visualization with Tableau Public.
 
 View the Sales Dashboard on Tableau Public:
-https://public.tableau.com/app/profile/inbar.birman/viz/SalesDashboard_17540726608940/Sheet1
+https://public.tableau.com/views/SalesDashboard_17540726608940/DailyPerformance?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link 
 
 ![Sales Dashboards](dashboards_screenshot.jpg)
 
