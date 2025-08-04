@@ -8,6 +8,12 @@ https://public.tableau.com/views/SalesDashboard_17540726608940/DailyPerformance?
 
 ---
 
+## Database Design Considerations
+
+To support analysis in Tableau, I aimed to create a **star schema**.  
+Each field was placed at the lowest level where it remains constant (customer, order, or product) to minimize duplication and ensure efficient joins, aggregations, and readability.
+
+
 ## Dashboard Overview
 
 The dashboards are structured to reflect priority and workflow:  
